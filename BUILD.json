@@ -1,0 +1,25 @@
+{
+  "abstract": "Fake Module for Testing",
+  "builder": "play",
+  "builder_API_version": "1",
+  "license": "perl",
+  "maintainers": ["Play Pause <test@play.us>"],
+  "name": "Next-Test-Module",
+  "primary": "Next::Test::Module",
+  "provides": {
+    "Next::Test::Module": {
+      "file": "lib/Next/Test/Module.pm",
+      "version": "0.01"
+    }
+  },
+  "recommends_runtime": {},
+  "requires_build": {},
+  "requires_develop": {},
+  "requires_runtime": {
+    "strict": 0,
+    "warnings": 0
+  },
+  "source": "p5",
+  "version": "0.01",
+  "xs": 0
+}
