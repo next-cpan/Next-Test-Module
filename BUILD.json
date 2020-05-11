@@ -9,7 +9,7 @@
   "provides": {
     "Next::Test::Module": {
       "file": "lib/Next/Test/Module.pm",
-      "version": "0.01"
+      "version": "1.00"
     }
   },
   "recommends_runtime": {},
@@ -20,6 +20,6 @@
     "warnings": 0
   },
   "source": "p5",
-  "version": "0.01",
+  "version": "1.00",
   "xs": 0
 }
